@@ -12,4 +12,4 @@ Data example - https://drive.google.com/file/d/1RvHNxroaQIJk1uxC3WIynt_cbrhgXga8
 
 That should be enough. It loads data from OrderLog20151010, you need to unpack the archive and you can run ipynb. In this folder there are examples of TradeLog and Order Log for this day. There are still a lot of calculated icebergs in it, these are  unnecessary technical files.
    
-3) The backtest_py folder contains the classes used for the backtest. They are called in ipynb, hey can be used as black boxes. An example of use is in MLBacktest, where it is used to simulate trading days using a strategy.
+3) The backtest_py folder contains the classes used for the backtest. They are called in ipynb, and they can be used as black boxes. An example of use is in MLBacktest, where it is used to simulate trading days using a strategy.
